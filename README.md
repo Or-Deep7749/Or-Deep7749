@@ -21,13 +21,6 @@ Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
 * SheetFill – Aplicativo desenvolvido com **Expo** e **TypeScript** voltado para preenchimento de planilhas do Excel de forma rápida e prática.
 * CliniPet – Aplicação web construída utilizando **Java**, **TypeScript** e **CSS**, projeto de uma API que simula um sistema de clínica veterinária.
 
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
 📬 Conecte-se comigo
 
 * **E-mail:** souza01pedro04.com
